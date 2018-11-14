@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/images">
+        <file>cards.png</file>
+    </qresource>
+    <qresource prefix="/sounds"/>
+</RCC>
